@@ -1,6 +1,6 @@
 # :fire: TGG
 
-The source code of our ACM MM 2019 conference paper ["TGG: Transferable Graph Generation for Zero-shot and Few-shot Learning"](/docs/paper/acmmm2019_tgg.pdf).
+The source code of our ACM MM 2019 conference paper ["TGG: Transferable Graph Generation for Zero-shot and Few-shot Learning"](https://arxiv.org/pdf/1908.11503.pdf).
 
 ![TGG framework](/docs/imgs/framework.png)
 
@@ -62,7 +62,7 @@ $ sh main_AwA1.sh
 **NOTE**: modify hyperparameters in config files as needed, where the suitable learning rate is of great importance.
 
 ## Experimental Results
-Due to space constraints, we refer the readers to our [paper](/docs/paper/acmmm2019_tgg.pdf) for the results of conventional ZSL, GZSL and FSL.
+Due to space constraints, we refer the readers to our [paper](https://arxiv.org/pdf/1908.11503.pdf) for the results of conventional ZSL, GZSL and FSL.
 
 ## References
 [1] Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip HS Torr, and Timothy M Hospedales. 2018. Learning to compare: Relation network for few-shot learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 1199–1208.
